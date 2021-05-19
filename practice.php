@@ -1,4 +1,4 @@
-﻿<html>
+<html>
 <title>
 my page
 </title>
@@ -7,6 +7,8 @@ my page
 </head>
 <body>
 <font class="title"> به نام خدا</font><br>
+ hello world <br>
+ i am from iran
 <img src="1.jpg" alt="عکس بازنشد" border="2" align="left" width="200" height="200" >
 
 <font class="title">بیوگرافی:</font><br>
